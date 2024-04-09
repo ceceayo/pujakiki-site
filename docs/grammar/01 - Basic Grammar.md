@@ -1,4 +1,7 @@
-# Grammar
+---
+comments: true
+---
+# Basic Grammar
 Pujakiki has a very simple grammar. There are three types of *something*, which are `verb`, `thing` and `key`. These will be discussed, in that order, in this document.
 
 ## Verbs

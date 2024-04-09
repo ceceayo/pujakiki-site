@@ -26,3 +26,5 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+  
+  custom_dir: overrides

@@ -1,0 +1,12 @@
+site_name: The Pujakiki language
+
+theme: 
+  name: material
+
+  plugins:  
+    - blog
+    - group
+    - offline
+    - search
+    - social
+    - tags

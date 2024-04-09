@@ -12,3 +12,6 @@ A key is a word that stands for a question which can be asked about a thing, or 
 
 ## Content
 A verb and a thing can have content. Content are questions which can be asked about the verb / thing. Content exists of a key, the word `re` (written as `:`), a verb or a thing (which can have content inside of content too) or a key (which never has content). In case there are multiple pairs of key and verb/thing/key, these are seperated by the word `ra` (written as `,`).
+
+## Exceptions
+**NEVER** will this language have exceptions on the basic rules which are discussed above. Never.

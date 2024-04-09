@@ -10,3 +10,19 @@ theme:
     - search
     - social
     - tags
+  
+  palette:
+    primary: teal
+    accent: deep orange
+  
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
